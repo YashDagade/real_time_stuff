@@ -1,0 +1,14 @@
+{
+    "name": "real_time_stuff_server",
+    "version": "1.0.0",
+    "type": "module",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "@fastify/cors": "^8.2.2",
+        "dotenv": "^16.4.7",
+        "fastify": "^4.22.2",
+        "node-fetch": "^3.3.2"
+    }
+}
